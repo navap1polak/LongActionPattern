@@ -1,4 +1,4 @@
-package washMachine;
+package nava.polak.onik.buisness.washMachine;
 
 import nava.polak.onik.buisness.ItemListManager;
 import nava.polak.onik.buisness.LongActionConsumerRunner;

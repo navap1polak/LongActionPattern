@@ -1,9 +1,7 @@
-package washMachine;
+package nava.polak.onik.buisness.washMachine;
 
 import nava.polak.onik.buisness.ItemListManager;
 import nava.polak.onik.buisness.ProducerRunner;
-
-import java.util.concurrent.Callable;
 
 public class LaundryItemsProducer implements ProducerRunner {
     private ItemListManager<LaundryItem> laundryItemListManager;
